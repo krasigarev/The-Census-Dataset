@@ -1,4 +1,4 @@
-# The-Census-Dataset
+# The Census Dataset
 
 ## The commands that we used in this project :
 - import pandas as pd -- To import Pandas library.
